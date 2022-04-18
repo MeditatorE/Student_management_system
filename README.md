@@ -9,7 +9,12 @@
   
 ## Demo
 1.SHOW ALL
+![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/Demo.gif)
 2.CLEAR ALL
+![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/Demo.gif)
 3.BEST STU
+![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/Demo.gif)
 4.ADD
+![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/Demo.gif)
 5.DELETE ONE
+![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/Demo.gif)
