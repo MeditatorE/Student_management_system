@@ -8,13 +8,17 @@
        PyMSQL
   
 ## Demo
-1.SHOW ALL
+### 1.SHOW ALL
 ![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/show_all.gif)
-2.CLEAR ALL
+
+### 2.CLEAR ALL
 ![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/clear_all.gif)
-3.BEST STU
+
+### 3.BEST STU
 ![](https://github.com/MeditatorE/Student_management_system/blob/main/Demo/best_stu.gif)
-4.ADD
+
+### 4.ADD
 ![](https://github.com/MeditatorE/Student_management_system/blob/main/Demo/add.gif)
-5.DELETE ONE
+
+### 5.DELETE ONE
 ![](https://github.com/MeditatorE/Student_management_system/blob/main/Demo/delete_one.gif)
