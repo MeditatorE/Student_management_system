@@ -9,10 +9,10 @@
   
 ## Demo
 ### 1.SHOW ALL
-![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/show_all.gif)
+![](https://github.com/MeditatorE/Student_management_system/blob/main/Demo/show_all.gif)
 
 ### 2.CLEAR ALL
-![](https://github.com/MeditatorE/Cartoon-Converter-Platform/blob/main/Demo/clear_all.gif)
+![](https://github.com/MeditatorE/Student_management_system/blob/main/Demo/clear_all.gif)
 
 ### 3.BEST STU
 ![](https://github.com/MeditatorE/Student_management_system/blob/main/Demo/best_stu.gif)
