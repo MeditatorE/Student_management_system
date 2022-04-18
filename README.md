@@ -6,3 +6,10 @@
        Python 3.7
        MySQL 8.0.23
        PyMSQL
+  
+## Demo
+1.SHOW ALL
+2.CLEAR ALL
+3.BEST STU
+4.ADD
+5.DELETE ONE
